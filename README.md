@@ -7,7 +7,7 @@ D_Share_Dapps is a decentralized file storage system built on a blockchain netwo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/D_Share_Dapps.git
+   git clone https://github.com/RahulTharammal/D_Share_Dapps.git
    ```
 
 2. **Install Dependencies for Hardhat:**
@@ -63,10 +63,6 @@ D_Share_Dapps is a decentralized file storage system built on a blockchain netwo
 
 4. **Accessing Other User Images:**
    - Use the "Get Data" button to access other users' images. Input the user's address in the designated box, but remember, you can only access their images if they've granted you access through the smart contract. Otherwise, it will throw an error saying "You don't have access".
-
-### Contributors
-- Your Name (@yourusername)
-- Additional contributors
 
 ### License
 This project is licensed under the [MIT License](LICENSE).
